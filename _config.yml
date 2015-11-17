@@ -1,0 +1,23 @@
+name: Brett Jones
+favicon: null
+layout_spectrum: 0.9778345171362162
+typography_spectrum: 0.9683928389567882
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.032881180522963405
+  lightness: 0.29893695027567446
+  saturation: 0.12756736599840224
+  rhythmicContrast: 0.7022787821479142
+purpose: []
